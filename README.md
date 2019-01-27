@@ -1,2 +1,2 @@
-# wssss123
-wssss123
+# devel ✨
+Epic Discord Bot
